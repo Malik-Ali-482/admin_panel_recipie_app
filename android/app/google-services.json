@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150276602749",
+    "project_id": "recipe-app-482",
+    "storage_bucket": "recipe-app-482.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150276602749:android:de07dd715911ef72926a14",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel_recipie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_HhZk17NXWtVYC2vvz-p-iZBUNX8GbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150276602749:android:4fdbe09c3d65524f926a14",
+        "android_client_info": {
+          "package_name": "com.example.recipie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_HhZk17NXWtVYC2vvz-p-iZBUNX8GbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
